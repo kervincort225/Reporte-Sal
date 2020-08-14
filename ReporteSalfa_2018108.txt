@@ -1,0 +1,23 @@
+Mon Oct 08 15:59:35 CLT 2018 - com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhost, puerto 1433. Error: "connect timed out. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+Mon Oct 08 16:02:51 CLT 2018 - com.microsoft.sqlserver.jdbc.SQLServerException: No se pudo realizar la conexión TCP/IP al host localhost, puerto 1433. Error: "Connection refused: connect. Verifique las propiedades de conexión, compruebe que hay una instancia de SQL Server ejecutándose en el host y aceptando las conexiones TCP/IP en el puerto y compruebe que no hay ningún firewall bloqueando las conexiones TCP en el puerto.".
+Mon Oct 08 16:05:34 CLT 2018 - Inicio proceso
+Mon Oct 08 16:11:05 CLT 2018 - Inicio proceso
+Mon Oct 08 16:15:26 CLT 2018 - Inicio proceso
+Mon Oct 08 16:26:30 CLT 2018 - Inicio proceso
+Mon Oct 08 16:28:59 CLT 2018 - Inicio proceso
+Mon Oct 08 16:33:23 CLT 2018 - Inicio proceso
+Mon Oct 08 16:38:42 CLT 2018 - Inicio proceso
+Mon Oct 08 17:13:12 CLT 2018 - Inicio proceso
+Mon Oct 08 17:13:12 CLT 2018 - While cont++: 1
+Mon Oct 08 17:25:12 CLT 2018 - Inicio proceso
+Mon Oct 08 17:25:12 CLT 2018 - While cont++: 1
+Mon Oct 08 17:29:18 CLT 2018 - Inicio proceso
+Mon Oct 08 17:29:18 CLT 2018 - While cont++: 1
+Mon Oct 08 17:31:29 CLT 2018 - Inicio proceso
+Mon Oct 08 17:31:29 CLT 2018 - While cont++: 1
+Mon Oct 08 17:32:33 CLT 2018 - Inicio proceso
+Mon Oct 08 17:32:33 CLT 2018 - While cont++: 1
+Mon Oct 08 17:34:34 CLT 2018 - Inicio proceso
+Mon Oct 08 17:34:34 CLT 2018 - While cont++: 1
+Mon Oct 08 17:35:25 CLT 2018 - Inicio proceso
+Mon Oct 08 17:35:25 CLT 2018 - While cont++: 1
